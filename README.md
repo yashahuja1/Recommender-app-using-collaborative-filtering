@@ -210,7 +210,7 @@ primarily on the Ratings.csv and Movies.csv files. The Ratings.csv serves as the
 detailing user-movie interactions, while Movies.csv provides
 contextual data for analysis and visualization.
 
-![Distribution of movie ratings](https://drive.google.com/file/d/1j78OTq4mE6PjJzeoX-63E1stTJFYGYjI/view?usp=sharing)
+![Distribution of movie ratings](https://github.com/yashahuja1/Recommender-app-using-collaborative-filtering/blob/main/Images/distribution_of_movie_ratings.png)\
 Fig. 1. Distribution of Movie Ratings
 
 B. Preprocessing
@@ -222,11 +222,7 @@ efficient loading, cleaning, and transformation of the data. Key
 preprocessing steps included:
 
 1) Data Cleaning:
-• Missing or
-
-inconsistent entries
-
-Movies.csv were filtered out.
+• Missing or inconsistent entries Movies.csv were filtered out.
 
 in Ratings.csv and
 
